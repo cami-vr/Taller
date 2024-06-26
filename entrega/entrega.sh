@@ -1,4 +1,4 @@
-# Entrega Nombre Apellido - NumeroDeEstudiante
+# Entrega Camila Vazquez - 323136
 #!/bin/bash
 title(){
     azul='\033[0;34m'
